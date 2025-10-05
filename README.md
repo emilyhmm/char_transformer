@@ -1,1 +1,1 @@
-# char_transformer
+# Basic Transformer For next character prediction
